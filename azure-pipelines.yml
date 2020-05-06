@@ -12,10 +12,10 @@ variables:
   azureSubscription: '77071cb1-982a-4926-a9b7-17268af5f1b5'
   
   # Web app name
-  webAppName: ''
+  webAppName: 'SmartScheduler'
   
   # Environment name
-  environmentName: ''
+  environmentName: 'DEV'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
